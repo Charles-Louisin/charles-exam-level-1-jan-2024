@@ -15,8 +15,7 @@ table {
 
 td.column {
     border-top: 1px solid #888;
-    padding: 20px 40px;
-    
+    padding: 20px 40px;  
 }
 
 tr.raw {
@@ -45,9 +44,7 @@ td.advance {
 p {
     text-align: center;
     width: fit-content;
-    
-    padding: 10px;
-    
+    padding: 10px; 
     margin: auto;
     background-color: #000;
 }
@@ -70,7 +67,6 @@ p.trois {
 
 td {
     border-bottom: 1px solid #888;
-   
 }
 
 
