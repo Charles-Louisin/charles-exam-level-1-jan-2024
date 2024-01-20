@@ -4,9 +4,10 @@
 }
 
 main {
-    background: linear-gradient(to bottom right, blue, rgb(8, 8, 63));
+    background: linear-gradient(to bottom right, blue, rgb(8, 8, 63));;
     height: 90.7vh;
     padding-top: 65px;
+    background-color: bl;
 }
 
 div.container {
